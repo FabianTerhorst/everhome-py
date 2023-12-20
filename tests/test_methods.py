@@ -14,3 +14,4 @@ def hello_test():
     Pytest will not execute this code directly, since the function does not contain the suffex "test"
     """
     everhome_client().test()
+    pass
