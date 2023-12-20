@@ -8,7 +8,7 @@ from __future__ import annotations
 from everhome.everhome_client import everhome_client
 
 
-def hello_test():
+def test_1():
     """
     This defines the expected usage, which can then be used in various test cases.
     Pytest will not execute this code directly, since the function does not contain the suffex "test"

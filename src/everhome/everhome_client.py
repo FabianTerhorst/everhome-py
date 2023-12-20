@@ -5,5 +5,5 @@ from __future__ import annotations
 
 
 class everhome_client:
-    def test() -> Any:
+    def test(self) -> Any:
         return 42
