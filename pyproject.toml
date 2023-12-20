@@ -3,11 +3,11 @@ requires = ["flit"]
 build-backend = "flit.buildapi"
 
 [project]
-name =  "py-project-toml"
+name =  "everhome"
 authors = [
-    {name = "Daniel Ciborowski", email = "dciborow@microsoft.com"},
+    {name = "Fabian Terhorst", email = "fabian@everhome.cloud"},
 ]
-description = "Sample Python Project for creating a new Python Module"
+description = "everhome.cloud api package."
 readme = "README.md"
 classifiers = [
     "Development Status :: 3 - Alpha",
