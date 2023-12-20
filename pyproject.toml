@@ -47,7 +47,7 @@ test = [
 ]
 
 [project.urls]
-Documentation = "everhome.cloud"
+Documentation = "https://github.com/fabianterhorst/everhome-py"
 Source = "https://github.com/fabianterhorst/everhome-py"
 Tracker = "https://github.com/fabianterhorst/everhome-py/issues"
 
