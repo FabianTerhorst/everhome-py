@@ -1,4 +1,4 @@
-python\_package package
+everhome package
 =======================
 
 Subpackages
@@ -7,15 +7,15 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   python_package.hello_world
+   everhome.everhome_client
 
 Submodules
 ----------
 
-python\_package.setup module
+everhome.everhome_client module
 ----------------------------
 
-.. automodule:: python_package.setup
+.. automodule:: everhome.everhome_client
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ python\_package.setup module
 Module contents
 ---------------
 
-.. automodule:: python_package
+.. automodule:: everhome
    :members:
    :undoc-members:
    :show-inheritance:
