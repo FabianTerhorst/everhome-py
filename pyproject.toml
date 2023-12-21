@@ -21,6 +21,11 @@ classifiers = [
 ]
 requires-python = ">=3.8.1"
 dynamic = ["version"]
+dependencies = [
+  'requests',
+  'six',
+  'urllib3',
+]
 
 [project.optional-dependencies]
 spark = [
