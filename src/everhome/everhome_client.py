@@ -160,6 +160,11 @@ class EverHome(object):
             kwargs.update(args)
         return self._internal_call("PUT", url, payload, kwargs)
 
+    def user(self):
+        """ Gets informations about the logged in everHome User
+        """
+        return self._get("user/current")
+
     def test(self) -> Any:
         self._get("devices")
         return 42
