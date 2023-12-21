@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath("../src/"))
 
 # -- Project information -----------------------------------------------------
 
-project = "ai-python docs"
-copyright = "2022, Daniel Ciborowski"
-author = "Daniel Ciborowski"
+project = "everHome Python API Documentation"
+copyright = "2023, Fabian Terhorst"
+author = "Fabian Terhorst"
 
 # The full version, including alpha/beta/rc tags
 release = "0.1.0"
